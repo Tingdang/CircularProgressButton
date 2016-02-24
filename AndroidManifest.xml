@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE RelativeLayout>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dd.circular.progress.button" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="23" />
+
+    <application />
+
+</manifest>
